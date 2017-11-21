@@ -13,3 +13,9 @@ body {
 .heading {
 	font-family: "Josefin Sans";
 }
+.images {
+	height: 100px;
+}
+.attr {
+	font-size: 0.9em;
+}
