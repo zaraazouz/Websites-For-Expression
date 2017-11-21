@@ -1,5 +1,5 @@
 body {
-        background-image: bunny.jpeg;
+        background-color: rgb(2, 13, 133);
 }
 #container {
 	position: absolute;
@@ -18,4 +18,13 @@ body {
 }
 .attr {
 	font-size: 0.9em;
+}
+a {
+	font-color: rgb(252, 3, 111);
+}
+a:hover {
+	background-color: rgb(255, 201, 251);
+}
+a:visited {
+	font-color: rgb(153, 0, 255);
 }
