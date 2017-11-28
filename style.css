@@ -1,6 +1,9 @@
 body {
         background-color: rgb(2, 13, 133);
 }
+body::first-line {
+	font-variant: small-caps;
+}
 #container {
 	position: absolute;
 	font-family: "Papyrus", "Josefin Sans";
