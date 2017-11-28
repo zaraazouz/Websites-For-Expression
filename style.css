@@ -2,6 +2,7 @@ body {
         background-color: rgb(2, 13, 133);
 }
 body::first-line {
+	font-family: "Copperplate", "Papyrus", "Josefin Sans";
 	font-variant: small-caps;
 }
 #container {
