@@ -4,6 +4,7 @@ body {
 p::first-line {
 	font-family: "Papyrus", "Josefin Sans";
 	font-variant: small-caps;
+	font-size: 1.2em;
 }
 #container {
 	position: absolute;
