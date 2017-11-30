@@ -1,7 +1,7 @@
 body {
         background-color: rgb(2, 13, 133);
 }
-p::first-line {
+.first-three::first-line {
 	font-family: "Papyrus", "Josefin Sans";
 	font-variant: small-caps;
 	font-size: 1.2em;
